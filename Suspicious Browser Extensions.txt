@@ -1,0 +1,36 @@
+1. Open your browser’s extension/add-ons manager
+Chrome/Edge: Go to Menu (⋮) → More tools → Extensions or type chrome://extensions/ in the address bar.
+Firefox: Go to Menu (☰) → Add-ons and themes → Extensions.
+
+2. Review all installed extensions carefully
+Look at the name, publisher, and installation date.
+Check if you remember installing each one.
+
+3. Check permissions and reviews for each extension
+Click Details to see permissions (e.g., “Read your browsing history” or “Access all websites”).
+Search the extension name online + “reviews” or “scam” to see other users’ feedback.
+
+4. Identify any unused or suspicious extensions
+Unused = installed but you don’t actively use them.
+Suspicious = unknown developer, bad reviews, or unnecessary high-risk permissions.
+
+5. Remove suspicious or unnecessary extensions
+Click Remove or Trash icon next to the extension name.
+
+6. Restart your browser and check for performance improvements
+Closing and reopening will fully unload removed extensions.
+Check if pages load faster or the browser feels smoother.
+
+7. Research how malicious extensions can harm users
+Examples:
+Data theft: Stealing passwords, credit card numbers, or browsing history
+Tracking: Logging every site you visit.
+Ad injection: Showing extra ads or pop-ups.
+Browser hijacking: Redirecting searches to unsafe sites.
+
+8. Document steps taken and extensions removed
+Keep a simple log like: 
+Date: 14 Aug 2025
+Extensions removed: "PDF Converter Pro" (unused), "FastSearch" (suspicious – bad reviews)
+Browser: Google Chrome
+Reason: Performance improvement and security
